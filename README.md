@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 
 - 📫 How to reach me: lucasestevam365@gmail.com
+- I'm stating my carrer as programmer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Que-Lucas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
