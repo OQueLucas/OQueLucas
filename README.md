@@ -11,7 +11,6 @@
 <!-- | <a href="https://www.twitter.com/">Twitter</a> -->
 
 > "If you get tired learn to rest, not to quit."
-
 > ~ Banksy
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Que-Lucas&layout=compact&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
