@@ -1,9 +1,10 @@
 ### Hi there, Lucas here!
+<hr>
 
+<div>
 - I'm starting my career as a developer.
 - Passionate about technology, artificial intelligence and games.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Que-Lucas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Feel free to reach me out
 
@@ -11,3 +12,10 @@
 | <a href="https://www.linkedin.com/in/lucasenqueiroz/">Linkedin</a> 
 | <a href="https://www.instagram.com/que.lucass/">Instagram</a>
 <!-- | <a href="https://www.twitter.com/">Twitter</a> -->
+
+"If you get tired learn to rest, not to quit."
+</div>
+
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Que-Lucas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
