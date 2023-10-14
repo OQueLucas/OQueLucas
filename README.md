@@ -7,7 +7,7 @@
 
   <a href="mailto:lucasestevam365@gmail.com">lucasestevam365@gmail.com</a>
 | <a href="https://www.linkedin.com/in/lucasenqueiroz/">Linkedin</a> 
-| <a href="https://www.instagram.com/que.lucass/">Instagram</a>
+| <a href="https://www.instagram.com/oquelucass/">Instagram</a>
 <!-- | <a href="https://www.twitter.com/">Twitter</a> -->
 
 > "If you get tired, learn to rest, not to quit."
