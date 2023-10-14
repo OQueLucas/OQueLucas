@@ -14,3 +14,7 @@
 > ~ Banksy
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OQueLucas&layout=compact&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:duolingoStats-->
+
+<!--END_SECTION:duolingoStats-->
