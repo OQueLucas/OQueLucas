@@ -16,5 +16,14 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OQueLucas&layout=compact&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://duolingo-stats-card.vercel.app/api?id=727309999&theme=dracula" alt="Duolingo Stats"/>
 
 <!--START_SECTION:duolingoStats-->
+<!-- Automatically generated with https://github.com/centrumek/duolingo-readme-stats-->
+
+| Username | Day Streak | Total XP |
+|:---:|:---:|:---:|
+| 👤 OQueLucas | 🔥 183 | ⚡ 5687 |
+
+| Language | Level | XP |
+|:---:|:---:|:---:|
+| 🇺🇸 English | 👑 63 | ⚡ 5687 |
 
 <!--END_SECTION:duolingoStats-->
