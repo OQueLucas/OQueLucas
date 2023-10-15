@@ -13,9 +13,7 @@
 > "If you get tired, learn to rest, not to quit."
 > ~ Banksy
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OQueLucas&layout=compact&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://duolingo-stats-card.vercel.app/api?id=727309999&theme=dracula" alt="Duolingo Stats"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OQueLucas&layout=compact&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://duolingo-stats-card.vercel.app/api?id=727309999&theme=dracula" alt="Duolingo Stats"/>
 
 <!--START_SECTION:duolingoStats-->
 
