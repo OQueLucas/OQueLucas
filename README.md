@@ -17,6 +17,7 @@
 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://duolingo-stats-card.vercel.app/api?id=727309999&theme=dracula" alt="Duolingo Stats"/>    -->
 
+## My duolingo offensive
 <!--START_SECTION:duolingoStats-->
 <!-- Automatically generated with https://github.com/centrumek/duolingo-readme-stats-->
 
