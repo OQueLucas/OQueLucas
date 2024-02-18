@@ -56,11 +56,11 @@
 
 | Username | Day Streak | Total XP |
 |:---:|:---:|:---:|
-| 👤 OQueLucas | 🔥 271 | ⚡ 7274 |
+| 👤 OQueLucas | 🔥 272 | ⚡ 7289 |
 
 | Language | Level | XP |
 |:---:|:---:|:---:|
-| 🇺🇸 English | 👑 74 | ⚡ 7274 |
+| 🇺🇸 English | 👑 74 | ⚡ 7289 |
 
 <!--END_SECTION:duolingoStats-->
 
