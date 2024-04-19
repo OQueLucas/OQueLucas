@@ -48,23 +48,6 @@
 </tr>
 </table>
 
-<!-- &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://duolingo-stats-card.vercel.app/api?id=727309999&theme=dracula" alt="Duolingo Stats"/>    -->
-
-## My duolingo offensive
-<!--START_SECTION:duolingoStats-->
-<!-- Automatically generated with https://github.com/centrumek/duolingo-readme-stats-->
-
-| Username | Day Streak | Total XP |
-|:---:|:---:|:---:|
-| 👤 OQueLucas | 🔥 0 | ⚡ 7723 |
-
-| Language | Level | XP |
-|:---:|:---:|:---:|
-| 🇺🇸 English | 👑 0 | ⚡ 7723 |
-
-<!--END_SECTION:duolingoStats-->
-
-  
 ## Feel free to reach me out
 
   <a href="mailto:lucasestevam365@gmail.com">lucasestevam365@gmail.com</a>
