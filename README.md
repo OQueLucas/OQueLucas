@@ -6,7 +6,7 @@
 - 💻 I’m a developer who is passionate about technology and games.
 - 🧮 DotNet Backend Development.
 - 🔭 As a new backend developer, I’m excited to explore the world of technology and learn new skills to contribute to the development of innovative solutions. I’m currently focused on C# .Net, asp and database, and I’m eager to see where this journey takes me.
-- 🚀 I’m interested in exploring the intersection of artificial intelligence and gaming, and how these two fields can work together to create new and innovative experiences.
+- 🚀 
 
 ## Skills
 
